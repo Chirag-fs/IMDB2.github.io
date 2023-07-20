@@ -1,8 +1,7 @@
 # IMDB2.github.io
 
 
-                             Hosted Link
-                             https://chirag-fs.github.io/IMDB2.github.io/
+Hosted Link ->  https://chirag-fs.github.io/IMDB2.github.io/
 
 # IMDb
 
