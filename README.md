@@ -1,5 +1,9 @@
 # IMDB2.github.io
 
+
+                             Hosted Link
+                             https://chirag-fs.github.io/IMDB2.github.io/
+
 # IMDb
 
 IMDb is a mini IMDb clone app using only vanilla javascript & css framework like Bootstrap.
